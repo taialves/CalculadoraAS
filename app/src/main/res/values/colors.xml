@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
+    <color name="background">#1D1C1B</color>
+    <color name="expressao">#7E7E7E</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="blue">#3820E2</color>
+    <color name="btnOperador">#DC3C3C3C</color>
 </resources>
